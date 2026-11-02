@@ -82,3 +82,13 @@ The pipeline produces these files in the `output_1000` directory:
 Source: [Books to Scrape](https://books.toscrape.com/)
 
 This is an independent personal learning project using a website designed for web scraping practice.
+
+## Project Screenshots
+
+### ETL Pipeline Execution
+
+![ETL pipeline result](screenshots/etl_result.png)
+
+### SQLite Database Validation
+
+![SQLite validation result](screenshots/sqlite_result.png)
